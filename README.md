@@ -1,16 +1,16 @@
 # Tachiko Choko / nurockplayer
 
-Backend / Data / DevOps engineer building AI-native software systems — based in Tokyo.
+Backend engineer by trade 🐍 based in Tokyo, building AI-native software systems. About ten years of making things that stay up — mostly inside companies that keep their code private, so this page only shows the solo stuff.
 
-I've spent about a decade building backend systems with Python and its ecosystem. Lately I've been working at the intersection of data engineering, developer tooling, and AI coding agents, where the interesting problem is how humans and agents collaborate on real software.
+Those solo builds start frontend-first, because that's the cheapest way to learn whether anyone actually wants the thing before I invest in a backend.
 
-## Currently building
+## 🧭 Currently building
 
 - **[Tokyo Mogu Mogu](https://github.com/nurockplayer/tokyo-mogu-mogu)** — a mobile-first exploration app for Tokyo's regional food culture, built on open data. Multi-region journeys that take people from discovery to story to route; the current milestone is a deterministic hackathon demo for August 2026. React 19, TypeScript, Vite.
 - **[Chabiko](https://github.com/nurockplayer/Chabiko)** — a Traditional-Chinese learning site for Japanese speakers preparing for a Taiwan trip, built around travel-first scenarios. Live at [chabiko.pages.dev](https://chabiko.pages.dev).
 - **[tachi-lens](https://github.com/nurockplayer/tachi-lens)** — a bring-your-own-key Chrome extension for immersive Twitch chat translation, with pluggable LLM providers, batch translation, and caching.
 
-## Engineering interests
+## 🔧 Engineering interests
 
 - Data engineering and open data
 - DevOps and CI/CD
@@ -19,7 +19,7 @@ I've spent about a decade building backend systems with Python and its ecosystem
 - AI coding agents and multi-agent workflows
 - APIs, testing, and performance
 
-## How I build
+## ⚡ How I build
 
 AI is a collaborator, not a code generator. My working loop treats GitHub as the coordination layer between a human and coding agents:
 
@@ -27,13 +27,11 @@ Product/architecture decision → implementation-ready Issue → implementation 
 
 Issues carry enough context to be implemented directly. Pull requests get real review, and repositories keep their tests and specs current with the code.
 
-## Background
+## 🌱 Background
 
-About ten years of backend engineering, historically around Python: Flask, SQLAlchemy, PostgreSQL, Docker, Nginx, GCP, APIs, testing, and performance. Most of that work was on closed-source company products, so it doesn't show up on GitHub.
+Historically Python: Flask, SQLAlchemy, PostgreSQL, Docker, Nginx, GCP, APIs, testing, and performance. That stack still shapes how I think about reliability and operations.
 
-The public projects here are mostly solo builds. They start frontend-first — a low-cost way to validate that someone actually wants the thing before I invest in the backend. The frontend-heavy profile reflects that validation loop, not my primary skill set.
-
-## Now
+## 📍 Now
 
 - Based in Tokyo
 - Studying Japanese
