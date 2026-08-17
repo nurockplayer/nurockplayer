@@ -9,7 +9,7 @@ I've spent about a decade building backend systems with Python and its ecosystem
 - **[Tokyo Mogu Mogu](https://github.com/nurockplayer/tokyo-mogu-mogu)** — a mobile-first exploration app for Tokyo's regional food culture, built on open data. Multi-region journeys that take people from discovery to story to route; the current milestone is a deterministic hackathon demo for August 2026. React 19, TypeScript, Vite.
 - **[Chabiko](https://github.com/nurockplayer/Chabiko)** — a Traditional-Chinese learning site for Japanese speakers preparing for a Taiwan trip, built around travel-first scenarios. Live at [chabiko.pages.dev](https://chabiko.pages.dev).
 - **[tachi-lens](https://github.com/nurockplayer/tachi-lens)** — a bring-your-own-key Chrome extension for immersive Twitch chat translation, with pluggable LLM providers, batch translation, and caching.
-- **[tachiko-conductor](https://github.com/nurockplayer/tachiko-conductor)** — an early-stage orchestration layer codifying my issue → PR → review workflow for AI coding agents. The idea: GitHub as the coordination surface between humans and agents.
+- **[tachiko-conductor](https://github.com/nurockplayer/tachiko-conductor)** — an early-stage orchestration layer for automating my issue → PR → review workflow with coding agents.
 
 ## Engineering interests
 
