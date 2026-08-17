@@ -29,7 +29,9 @@ Issues carry enough context to be implemented directly. Pull requests get real r
 
 ## Background
 
-About ten years of backend engineering, historically around Python: Flask, SQLAlchemy, PostgreSQL, Docker, Nginx, GCP, APIs, testing, and performance. That stack still shapes how I think about reliability and operations, even as my current projects trend toward TypeScript and the frontend.
+About ten years of backend engineering, historically around Python: Flask, SQLAlchemy, PostgreSQL, Docker, Nginx, GCP, APIs, testing, and performance. Most of that work was on closed-source company products, so it doesn't show up on GitHub.
+
+The public projects here are mostly solo builds. They start frontend-first — a low-cost way to validate that someone actually wants the thing before I invest in the backend. The frontend-heavy profile reflects that validation loop, not my primary skill set.
 
 ## Now
 
